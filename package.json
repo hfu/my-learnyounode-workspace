@@ -1,0 +1,24 @@
+{
+  "name": "my-learnyounode-workspace",
+  "version": "1.0.0",
+  "description": "My learnyounode workspace. No reason to be private, but no reason to be public :-) ## see also - [learnyounode](https://github.com/workshopper/learnyounode)",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/my-learnyounode-workspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfu/my-learnyounode-workspace/issues"
+  },
+  "homepage": "https://github.com/hfu/my-learnyounode-workspace#readme",
+  "dependencies": {
+    "bl": "^1.2.1",
+    "strftime": "^0.10.0",
+    "through2-map": "^3.0.0"
+  }
+}
